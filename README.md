@@ -1,4 +1,4 @@
-# 🌟 Lumina - Aplicación de Gestión de Tareas y Organización Personal 📝🚀
+# 🎀 Lumina - Aplicación de Gestión de Tareas y Organización Personal 📝
 
 <p align="center">
   <img src="https://img.shields.io/badge/Proyecto-Oficial-C71585?style=for-the-badge&logo=git&logoColor=white" />
