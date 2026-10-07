@@ -6,9 +6,6 @@
   <img src="https://img.shields.io/badge/Materia-Gestión_de_Proyectos-orange?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Versión-1.0.0-informational?style=for-the-badge&logo=semver&logoColor=white" />
   <img src="https://img.shields.io/badge/Licencia-MIT-purple?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <a href="https://github.com/DeniseGz/Lumina-Task-Manager/stargazers">
-    <img src="https://img.shields.io/github/stars/DeniseGz/Lumina-Task-Manager?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
-  </a>
   <img src="https://img.shields.io/badge/Metodología-Ágil-yellowgreen?style=for-the-badge&logo=agile&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
