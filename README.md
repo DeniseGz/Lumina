@@ -1,15 +1,16 @@
 # 🌟 Lumina - Aplicación de Gestión de Tareas y Organización Personal 📝🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-Completado_y_Cerrado-success?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/Mantenimiento-Activo-blue?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Versión-1.0.0-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proyecto-Oficial-blue?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estado-Completado_y_Cerrado-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Materia-Gestión_de_Proyectos-orange?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Versión-1.0.0-informational?style=for-the-badge&logo=semver&logoColor=white" />
   <img src="https://img.shields.io/badge/Licencia-MIT-purple?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <a href="https://github.com/DeniseGz/Lumina-Gestion-Tareas/stargazers">
-    <img src="https://img.shields.io/github/stars/DeniseGz/Lumina-Gestion-Tareas?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+  <a href="https://github.com/DeniseGz/Lumina-Task-Manager/stargazers">
+    <img src="https://img.shields.io/github/stars/DeniseGz/Lumina-Task-Manager?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
   </a>
+  <img src="https://img.shields.io/badge/Metodología-Ágil-yellowgreen?style=for-the-badge&logo=agile&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gestión_de_Proyectos-Ágil-informational?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ⭐ *Este es mi repositorio oficial donde documento y presento el desarrollo completo de **Lumina**, un proyecto integral enfocado en una aplicación de gestión de tareas y organización personal. Este desarrollo fue realizado como parte de mi cursada en la materia **Gestión de Proyectos**.* 🎯
