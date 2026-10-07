@@ -1,13 +1,13 @@
 # 🌟 Lumina - Aplicación de Gestión de Tareas y Organización Personal 📝🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Proyecto-Oficial-blue?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estado-Completado_y_Cerrado-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Materia-Gestión_de_Proyectos-orange?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Versión-1.0.0-informational?style=for-the-badge&logo=semver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Licencia-MIT-purple?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metodología-Ágil-yellowgreen?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proyecto-Oficial-C71585?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estado-Completado_y_Cerrado-FF1493?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Materia-Gestión_de_Proyectos-DB7093?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Versión-1.0.0-DA70D6?style=for-the-badge&logo=semver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Licencia-MIT-BA55D3?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metodología-Ágil-FF69B4?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.8%2B-C71585?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ⭐ *Este es mi repositorio oficial donde documento y presento el desarrollo completo de **Lumina**, un proyecto integral enfocado en una aplicación de gestión de tareas y organización personal. Este desarrollo fue realizado como parte de mi cursada en la materia **Gestión de Proyectos**.* 🎯
