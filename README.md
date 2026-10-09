@@ -49,6 +49,9 @@ Como parte de la gestión profesional del proyecto, realicé un análisis post-m
 
 ---
 
+*Designed and developed by DeniseGz © 2026*
+
+
 ## 💬 4. Comentarios del Cliente
 
 > *"Estamos muy conformes con Lumina. La aplicación es intuitiva, rápida y cumple con todas las funcionalidades comprometidas. El proceso de trabajo fue claro y profesional..."* 
